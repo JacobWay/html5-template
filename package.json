@@ -1,0 +1,23 @@
+{
+  "name": "html5-tmeplate",
+  "version": "0.0.0",
+  "description": "html5 template with package.son and gruntfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobWay/html5-template.git"
+  },
+  "keywords": [
+    "html5",
+    "template"
+  ],
+  "author": "Jacob Way",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobWay/html5-template/issues"
+  },
+  "homepage": "https://github.com/JacobWay/html5-template#readme"
+}
